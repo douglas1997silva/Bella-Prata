@@ -5,3 +5,20 @@
 .divs-facilidades{
     width: 325px;
 }
+.div-novidades {
+    width: 325px;
+}
+.i-text{
+    color: #DAFF01;
+}
+.btn-lilas{
+    background-color: #9353FF;
+    color: #ffffff;
+}
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
